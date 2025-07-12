@@ -1,0 +1,38 @@
+# Maven output
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# H2 database files
+todo.mv.db
+todo.trace.db
+todo.lock.db
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# VS Code settings
+.vscode/
+
+# Backup files
+*~
+*.swp
+*.bak
+
+# Test reports
+/test-output/
