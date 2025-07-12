@@ -22,6 +22,15 @@ A simple Java project demonstrating CRUD operations on an H2 database using JDBC
 - Java 8 or higher
 - Maven
 
+# How to Clone
+
+To clone this project from GitHub, run:
+
+```sh
+git clone https://github.com/your-username/practice1011.git
+cd practice1011
+```
+
 ## How to Build
 
 ```sh
